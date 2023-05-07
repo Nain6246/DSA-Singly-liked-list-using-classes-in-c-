@@ -1,12 +1,12 @@
-# DSA-Singly-liked-list-using-classes-in-c-
-Structure and classes
-Functions:
-input student
-insert at start
-insert at specific location according to roll no
-insert at end
-Deletion at start
-Find student by using her/his roll number
-Delete at location
-Delete at End
+# DSA-Singly-liked-list-using-classes-in-c-  <br>
+Structure and classes <br>
+Functions: <br>
+input student <br>
+insert at start <br>
+insert at specific location according to roll no <br>
+insert at end <br>
+Deletion at start <br>
+Find student by using her/his roll number <br>
+Delete at location <br>
+Delete at End <br>
 
